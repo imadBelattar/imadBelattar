@@ -21,7 +21,7 @@
   
 - ✌🏻 Apart from Coding **I love playing chess with friends, watching anime series,  and reading books.**
 
-- 💬 Ask me about **Software & Full Stack and Development**
+- 💬 Ask me about **Software & Full Stack development**
 
   <br/>
 
