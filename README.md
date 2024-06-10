@@ -26,11 +26,6 @@
   <br/>
 
 
-
-
-  
-
-
 ### Skills and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=angular,react,javascript,typescript,html,css,bootstrap,nodejs,express,java,spring,python,php,postman,c,cpp,linux,git,mysql,postgresql,mongodb,vscode,idea,clion,pycharm&perline=10&theme=light)](https://skillicons.dev)
@@ -38,10 +33,13 @@
 ### 
 <h1></h1>
 
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imadBelattar&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimedivin&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph"  />
+<br/><div align="center">
+<a href="https://github.com/imadBelattar">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imadBelattar&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imadBelattar&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imadBelattar&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imadBelattar&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imadBelattar&theme=2077" height="180em" />
 </div>
 
 ###
