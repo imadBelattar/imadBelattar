@@ -28,7 +28,7 @@
 
 ### Skills and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=angular,react,javascript,typescript,html,css,bootstrap,nodejs,express,java,spring,python,php,postman,c,cpp,linux,git,mysql,postgresql,mongodb,vscode,idea,clion,pycharm&perline=10&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,react,javascript,typescript,html,css,bootstrap,nodejs,express,java,spring,python,php,postman,c,cpp,linux,git,mysql,postgresql,mongodb,vscode,idea,clion,pycharm,docker&perline=10&theme=light)](https://skillicons.dev)
 
 ### 
 <h1></h1>
