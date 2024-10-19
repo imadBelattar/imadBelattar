@@ -16,13 +16,16 @@
 <br/>
 
  <img width="300"  align="right" src="https://i.pinimg.com/originals/33/fa/71/33fa7169ec81266cec664f84322dbf2a.gif" alt="naruto is coding.." />
+ 
 
-- 🎓 I am pursuing a master's degree in Information System Engineering.
+   - 🎓 I am pursuing a master's degree in Information System Engineering.
+     
+   - ✌🏻 Apart from Coding **I love playing chess with friends, watching anime series,  and reading books.**
+   
+   - 💬 Ask me about **Software & Full Stack development**
+     
+   - 🐳 I am currently learning `Docker`.
   
-- ✌🏻 Apart from Coding **I love playing chess with friends, watching anime series,  and reading books.**
-
-- 💬 Ask me about **Software & Full Stack development**
-
   <br/>
 
 
